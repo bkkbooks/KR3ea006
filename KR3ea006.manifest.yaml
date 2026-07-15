@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ea006/v1
 canonical_location: https://kanripo.org/bkk/KR3ea006/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 黃帝內經素問校義
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea006_000.yaml, hash: 'sha256:92530aa6b133d5bba29d49582af1cb93e0d8aff966d4067f0b1570016e1f6c21'}
+  - {seq: 0, filename: KR3ea006_000.yaml, hash: 'sha256:a5dcad7590dac2d74be7cb67171cf93c687e647e2a868efce693a56d078379f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea006_000.markers.yaml, hash: 'sha256:1616839d37e0ddf26978683458cef68fbe7486e2c39aaa6999c1f4d282afd5c9'}
+  - {seq: 0, role: markers, filename: assets/KR3ea006_000.markers.yaml, hash: 'sha256:1f44d3f1e1dbb6c938e8a6049815bf62f50346fc779a90adf66fee8bce8035cd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,7 @@ table_of_contents:
   label: 素問
   type: section
   level: 1
-hash: sha256:716cfd8dd40198c96ec0cc221a47d9514295a43215eb8ac4cc6d4f2d2c25a871
+hash: sha256:10194f48af2f0948a54bc75253715d8c9f0c44e36d5533c694037263235ff450
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
