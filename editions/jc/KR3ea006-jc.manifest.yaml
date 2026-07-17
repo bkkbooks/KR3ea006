@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ea006_000-jc.yaml, hash: 'sha256:92530aa6b133d5bba29d49582af1cb93e0d8aff966d4067f0b1570016e1f6c21'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea006_000-jc.markers.yaml, hash: 'sha256:d8ca1175501e223c1eb055a1caf9e4d5305434ef2af936e43252b2299ddb30ca'}
+  - {seq: 0, role: markers, filename: assets/KR3ea006_000-jc.markers.yaml, hash: 'sha256:ab9ab5606754e4151bd4bd5a9fe84371d730126762862c987c478327d6ded9f4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 素問
   type: section
   level: 1
-hash: sha256:c71b789977df35dd7fa5fd223f7bf1b5682f10a11ce27c8885de87439f27a173
+hash: sha256:a66beeb5a80d277f75524a89652f44b9af93ab35d4ddb080aa5c78644dd670c7
